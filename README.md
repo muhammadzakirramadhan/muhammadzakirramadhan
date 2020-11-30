@@ -1,3 +1,5 @@
+![Alt Text](https://media1.tenor.com/images/f305e78250332a03b57bdf5aa24e22a3/tenor.gif?itemid=13320232)
+
 ### Hi there 👋
 
 Here are some ideas to get you started:
@@ -16,4 +18,3 @@ Find Me:
 <a href="https://www.instagram.com/itsmezak_" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/r00t.go.id" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 
-![Alt Text](https://media1.tenor.com/images/f305e78250332a03b57bdf5aa24e22a3/tenor.gif?itemid=13320232)
