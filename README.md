@@ -2,13 +2,10 @@
 
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on PT Kerjasama Untuk Negri
+- 🔭 I’m currently working on Pt Majapahit Teknologi Nusantara
 - 🌱 I’m currently learning Python,Golang,PHP,NodeJs
-- 👯 I’m looking to collaborate on Yuusha Project
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: Anime Lovers
+- 👯 I’m currently contribute on OSS.go.id Project
+- ⚡ Fun fact: Anime Lovers & Modern Application Enthusiast
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=muhammadzakirramadhan&show_icons=true&theme=radical)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadzakirramadhan&layout=compact&theme=nightowl)
